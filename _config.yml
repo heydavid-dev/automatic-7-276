@@ -91,7 +91,7 @@ app-description-color                     : "#ffffff"
 feature-title-color                       : "#000000"
 feature-text-color                        : "#666666"
 
-feature-icons-foreground-color            : "#1d63ea"
+feature-icons-foreground-color            : "#ea1d1d"
 feature-icons-background-color            : "#e6e6e6"
 
 social-icons-foreground-color             : "#666666"
