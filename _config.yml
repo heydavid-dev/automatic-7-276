@@ -72,7 +72,7 @@ features-list                             :
 # Theme Settings
 topbar-color                              : "#000000"
 topbar-transparency                       : "0.1"
-topbar-title-color                        : "#ffffff"
+topbar-title-color                        : "#00ff48"
 
 cover-image                               : assets/headerimage.png             
 cover-overlay-color                       : "#363b3d"
